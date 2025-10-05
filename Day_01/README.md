@@ -27,6 +27,7 @@ What is your pet's name?
 Sparky
 Your band name could be London Sparky
 ```
-![Day01](https://github.com/user-attachments/assets/d0dc74bf-d8ff-4af9-9ed2-aa47b8b538cd)
+![Day01](https://github.com/user-attachments/assets/dc951a51-56be-447e-bd04-528eaed2cfb8)
+
 
 
