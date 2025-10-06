@@ -1,4 +1,4 @@
-# Day 02: Tip Calculator
+# Day 02: Understanding Data Types and How to Manipulate Strings
 
 ## Overview
 This project, developed as part of "The 100 Days of Python" challenge, focuses on Python data types, mathematical operations, and number manipulation to create a practical Tip Calculator.
