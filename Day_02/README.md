@@ -30,3 +30,5 @@ Enter the Number of People to Split the Bill:
 5
 Each person should pay: $28.65
 ```
+![Day02](https://github.com/user-attachments/assets/a43ff4d0-5816-483d-ac9d-f7ff588719c1)
+
