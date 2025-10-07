@@ -5,7 +5,7 @@ def pause(text):
     time.sleep(1.2)
 
 def game_over():
-    print(r'''
+    print('''
                              ,--. 
                             {    } 
                             K,   } 
@@ -147,7 +147,7 @@ def win():
                     '-.||_/.-'
     ''')
 def snake():
-    print('''
+    print(r'''
        ---_ ......._-_--.
       (|\ /      / /| \  \
       /  /     .'  -=-'   `.
