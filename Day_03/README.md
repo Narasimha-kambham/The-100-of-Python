@@ -20,3 +20,4 @@ This program guides the user through a series of choices on Treasure Island, lea
 
 ## Example Interaction
 
+![Day03](https://github.com/user-attachments/assets/c087fd00-755f-48d6-afa9-0e554e6d76a6)
