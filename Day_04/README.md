@@ -18,4 +18,5 @@ This program allows the user to play a game of Rock Paper Scissors against the c
 
 ## Example Interaction
 
-![Day04](https://github.com/user-attachments/assets/350389c5-ed89-45ab-8631-000f494d7fbc)
+![Day04](https://github.com/user-attachments/assets/25ea84ec-cb6f-442f-8c39-7af2729fb971)
+
