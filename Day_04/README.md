@@ -17,3 +17,5 @@ This program allows the user to play a game of Rock Paper Scissors against the c
 3. The program will display both your choice and the computer's choice, then declare the winner.
 
 ## Example Interaction
+
+![Day04](https://github.com/user-attachments/assets/093faea2-5f69-466a-babb-94866882b31f)
