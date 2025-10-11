@@ -21,3 +21,4 @@ This program generates a strong, random password based on user-defined criteria 
 
 ## Example Interaction
 
+![Day05](https://github.com/user-attachments/assets/09142fca-0d7b-4fbc-91ec-33d7fe8e9417)
