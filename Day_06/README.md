@@ -16,3 +16,6 @@ This program demonstrates the use of functions and while loops to navigate throu
 1. Copy the code from `main.py`.
 2. Paste the code into the Reeborg's World challenge window.
 3. Run the code in Reeborg's World to see the character navigate the maze.
+
+
+![Day061](https://github.com/user-attachments/assets/fecf4afb-3eb9-4747-a9ba-b55501d1cc4c)
